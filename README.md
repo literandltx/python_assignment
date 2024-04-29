@@ -9,7 +9,7 @@
 5. Set conditional equation to a new column and call it "Severity". If score is >75 then High, if >49 & <76 then Medium, if <50 then Low
 6. Visualize the scores by oblast using bar chart or scatter plot
 7. Upload code to your personal github, with readme file that explains the libraries used and the steps applied.
-8. Share the respository: suleimanhayek@gmail.com
+8. Share the repository
 
 ## Libraries used
 1. **pandas**: For data manipulation and analysis, including reading/writing CSV files, data cleaning, and sorting.
